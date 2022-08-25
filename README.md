@@ -1,3 +1,5 @@
 # Hello, world!
 
-I study in Netolgy
+I study in Netolgygit
+
+GIT is great!
